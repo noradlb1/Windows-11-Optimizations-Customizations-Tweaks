@@ -1,0 +1,13 @@
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\bin\Debug\Windows 11 optimizations customizations tweaks.exe.config
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\bin\Debug\Windows 11 optimizations customizations tweaks.exe
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\bin\Debug\Windows 11 optimizations customizations tweaks.pdb
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\bin\Debug\Windows 11 optimizations customizations tweaks.xml
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\bin\Debug\Guna.UI2.dll
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\obj\Debug\Windows_11_optimizations_customizations_tweaks.Resources.resources
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\obj\Debug\Windows 11 optimizations customizations tweaks.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\obj\Debug\Windows 11 optimizations customizations tweaks.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\obj\Debug\Windows 11 optimizations customizations tweaks.vbproj.CopyComplete
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\obj\Debug\Windows 11 optimizations customizations tweaks.exe
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\obj\Debug\Windows 11 optimizations customizations tweaks.xml
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\obj\Debug\Windows 11 optimizations customizations tweaks.pdb
+C:\Users\MONSTERMC\source\repos\Windows 11 optimizations customizations tweaks\Windows 11 optimizations customizations tweaks\obj\Debug\Windows_11_optimizations_customizations_tweaks.Form1.resources
